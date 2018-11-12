@@ -106,7 +106,7 @@ parcelRequire = (function (modules, cache, entry, globalName) {
   return newRequire;
 })({"index.js":[function(require,module,exports) {
 window.onload = function () {
-  document.querySelector("h1").style.color = "yellow";
+  document.querySelector("h1").style.color = "red";
 };
 },{}],"../../../../AppData/Roaming/npm/node_modules/parcel-bundler/src/builtins/hmr-runtime.js":[function(require,module,exports) {
 var global = arguments[3];

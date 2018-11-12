@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["window","onload","document","querySelector","style","color"],"mappings":";AAAAA,OAAOC,OAAS,WACdC,SAASC,cAAc,MAAMC,MAAMC,MAAQ","file":"parceldeploytest.54bbab2f.map","sourceRoot":"..","sourcesContent":["window.onload = function() {\r\n  document.querySelector(\"h1\").style.color = \"red\";\r\n};\r\n"]}
