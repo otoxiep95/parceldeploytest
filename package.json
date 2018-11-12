@@ -1,0 +1,16 @@
+{
+  "name": "parceldeploytest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "mysass": "node-sass index.scss output.css -w"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.10.0"
+  }
+}
