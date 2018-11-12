@@ -1,3 +1,3 @@
-window.onload()=function() {
-    document.querySelector("h1").style.color="yellow";
-  };
+window.onload = function() {
+  document.querySelector("h1").style.color = "yellow";
+};
